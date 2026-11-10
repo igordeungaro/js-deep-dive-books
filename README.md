@@ -67,3 +67,12 @@ A big thanks to [Coddy](https://coddy.tech/?utm_source=github&utm_medium=sponsor
 The materials herein are all &copy; 2019-2025 Kyle Simpson.
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>.
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: própria do projeto (ver o arquivo LICENSE) (mantida sem alterações).
+
+**Fonte original:** https://github.com/getify/You-Dont-Know-JS
